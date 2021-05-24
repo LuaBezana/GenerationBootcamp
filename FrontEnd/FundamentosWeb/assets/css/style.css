@@ -1,0 +1,60 @@
+/*Estilos da página index.html*/
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 20px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: #6F1E51;
+}
+
+#menu li a:hover {
+    color:lightgray
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.br-50 {
+    border-radius: 50%;
+}
+
+.wh {
+    width: 260px;
+    height: 260px;
+}
+
+.tm-social {
+    width: 40px;
+    height: 40px;
+}
+
+.mb-40 {
+    margin-bottom: 40px;
+}
+
+/*Estilos da página index.html*/
+.ml-40 {
+    margin-left: 40px;  
+}
+
+.color {
+    color: #fd79a8;
+}
